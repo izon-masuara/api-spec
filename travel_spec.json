@@ -6,7 +6,7 @@
     },
     "servers": [
         {
-            "url": "http://api.backendwppdev.my.id/api/v1"
+            "url": "https://backendwppdev.my.id/api/v1"
         }
     ],
     "paths": {
